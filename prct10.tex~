@@ -1,0 +1,98 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc} 
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+
+
+
+\begin{document}
+\title{Número $\pi$}
+\author{Elizabeth Diez Rodriguez\\
+        Tecnicas experimentales~\footnote{Informe sobre el  número $\pi$} 
+        }
+\date{09/04/2014}
+\maketitle
+
+
+
+\begin{abstract}
+$\pi$ (pi) es la relación entre la longitud de una circunferencia y su diámetro, en geometría euclidiana.
+Es un número irracional y una de las constantes matemáticas más importantes. Se emplea frecuentemente en matemáticas, 
+física e ingeniería. El valor numérico de $\pi$, truncado a sus primeras cifras, es el siguiente:
+
+    $\pi$ = 3,14159265358979323846  
+\end{abstract}
+
+
+\section{Descrippcion}
+
+\subsection{Valor de $\pi$}
+El valor de $\pi$ se ha obtenido con diversas aproximaciones a lo largo de la historia,
+siendo una de las constantes matemáticas que más aparece en las ecuaciones de la física, junto con el número e.
+Cabe destacar que el cociente entre la longitud de cualquier circunferencia y 
+la de su diámetro no es constante en geometrías no euclídeas.
+
+ \cite{pi2}
+ 
+\subsection{El nombre $\pi$}
+La notación con la letra griega $\pi$ proviene de la inicial de las palabras de origen griego $\pi$epilyepela 'periferia'
+y $\pi$epilyepela 'perímetro' de un círculo,1 notación que fue utilizada primero por William Oughtred (1574-1660) y 
+cuyo uso fue propuesto por el matemático galés William Jones2 (1675-1749); aunque fue el matemático Leonhard Euler,
+con su obra Introducción al cálculo infinitesimal, de 1748, quien la popularizó. Fue conocida anteriormente como constante
+de Ludolph (en honor al matemático Ludolph van Ceulen) o como constante de Arquímedes (que no se debe confundir con el número
+de Arquímedes).
+
+En la tabla \ref{table1} se puede ver el total de chicos que hay en las clases 1,2 y 3.
+
+\section{Historia}
+\subsection{Antiguo egipto}
+El valor aproximado de $\pi$ en las antiguas culturas se remonta a la época del escriba egipcio Ahmes en el año 1800 a. C., 
+descrito en el papiro Rhind,3 donde se emplea un valor aproximado de $\pi$ afirmando que el área de un círculo es similar a 
+la de un cuadrado cuyo lado es igual al diámetro del círculo disminuido en 1/9; es decir, igual a 8/9 del diámetro.
+
+\cite{pi}
+
+\subsection{Mesopotamia}
+Algunos matemáticos mesopotámicos empleaban, en el cálculo de segmentos, valores de $\pi$ igual a 3, a
+lcanzando en algunos casos valores más aproximados
+
+    
+
+En la figura \ref{fig.
+
+1} se puede ver el logotipo del número $\pi$ que se va a hacer el informe.
+
+\begin{table}[h]
+\begin{center}
+ \begin{tabular}{|l|c|c|c|}
+ \hline
+ 
+clase & chicos & chicas & total \\ \hline
+ 1 & 15 & 25 & 40 \\ \hline
+ 2 & 10 & 30 & 40 \\ \hline
+ 3 & 20 & 2 & 22 \\ \hline
+ 
+  
+\end{tabular}
+\caption{mi tabla}
+\label{table1}
+\end{center}
+\end{table}
+
+
+\begin{thebibliography}{00}
+ \bibitem{pi}
+ http://es.wikipedia.org
+ \bibitem{pi2}
+ http://webs.adam.es/rllorens/pi.htm
+\end{thebibliography}
+
+\begin{figure}[t]
+ \includegraphics[scale=0.10]{imagen1.eps}
+ \caption{ejemplo de grafica}
+ \label{fig1}
+\end{figure}
+
+
+\end{document}
+
